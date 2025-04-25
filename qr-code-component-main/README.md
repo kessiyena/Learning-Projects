@@ -1,1 +1,0 @@
-Front end mentor QR-code component challenge
